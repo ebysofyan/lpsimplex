@@ -7,3 +7,9 @@ Just run a below command on your terminal or cmd
 ####How about command option?
 Just run a below command and you will get all of you need
 > <i>python lp_simplex.py -h</i>
+
+###Important
+dont forget to install <i>pulp</i> package by pip or easy_install (python package manager)
+> <i>pip install pulp</i> <br>
+> or<br>
+> <i>easy_install -U pulp</i>
