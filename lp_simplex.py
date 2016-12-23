@@ -3,10 +3,6 @@ import argparse
 import sys
 import json
 
-'''
-Created at 23-12-2016 by Eby Sofyan Fadly
-'''
-
 def solve(objective=None, constraints=None, variables=None, lp_type=None):
 
     if lp_type == "max":
