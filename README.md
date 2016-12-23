@@ -7,7 +7,3 @@ Just run a below command on your terminal or cmd
 ####How about command option?
 Just run a below command and you will get all of you need
 > <i>python lp_simplex.py -h</i>
-
-####License
-This code basicly purpose is just for complete my task from lecturer.<br>
-Licensed Under MIT LICENSE
